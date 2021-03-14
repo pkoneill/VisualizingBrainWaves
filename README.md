@@ -5,7 +5,10 @@ Objectives: To introduce students to Python programming through learning about b
 
 
 # Workshop Outline
-Welcome/Introductions
+|Time| Description|
+|----|------------|
+|0:00-0:15| Welcome/Introductions|
+
 Part I: Brain Waves
 Lecture on Brain Waves
   -What are Brain waves
