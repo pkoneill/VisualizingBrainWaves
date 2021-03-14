@@ -5,7 +5,7 @@ Objectives: To introduce students to Python programming through learning about b
 
 
 # Workshop Outline
-PART I: Brain Waves
+##PART I: Brain Waves
 |HR:MIN| Description| 
 |------|------------|
 |0:00-0:15| Welcome/Introductions |
@@ -14,7 +14,7 @@ PART I: Brain Waves
 |1:10-1:40| Colab Tutorial and Discussion|
 |1:40-1:45| BREAK|
 
-Part II: Analyzing EEG data 
+##Part II: Analyzing EEG data 
 HR:MIN| Description| 
 |------|------------|
 |0:00-0:15| Welcome/Introductions |
