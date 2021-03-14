@@ -5,22 +5,23 @@ Objectives: To introduce students to Python programming through learning about b
 
 
 # Workshop Outline
-|HR:MIN| Description|
+PART I: Brain Waves
+|HR:MIN| Description| 
 |------|------------|
 |0:00-0:15| Welcome/Introductions |
-|0:15-1:00| Lecture on Brain Waves |
+|0:15-1:00| Lecture on Brain Waves and History of the EEG | 
 |1:00-1:10| BREAK|
-|1:10-1:40| Tutorial and Discussion|
-|1:40
-
-Part I: Brain Waves
-Lecture on Brain Waves
-  -What are Brain waves
-  -What is biological data used for
-  -History of the EEG
-Tutorial: Interactive slides and Colab 
+|1:10-1:40| Colab Tutorial and Discussion|
+|1:40-1:45| BREAK|
 
 Part II: Analyzing EEG data 
+HR:MIN| Description| 
+|------|------------|
+|0:00-0:15| Welcome/Introductions |
+|0:15-1:00| Lecture on Brain Waves and History of the EEG | 
+|1:00-1:10| BREAK|
+|1:10-1:40| Colab Tutorial and Discussion|
+|1:40-1:45| BREAK|
 Lecture on EEG circuitry
   -Components of an EEG
   -Fourier transform
