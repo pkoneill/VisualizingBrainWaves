@@ -1,7 +1,7 @@
 # Visualizing Brain Waves Syllabus
 March 27, 2021
 
-Objectives: To introduce students to Python programming through learning about brain waves and EEGs. This course is a 4 hour virtual workshop. Throughout [ Part I: Brain Waves][https://github.com/pkoneill/VisualizingBrainWaves/blob/main/README.md#part-ii-analyzing-eeg-data]
+Objectives: To introduce students to Python programming through learning about brain waves and EEGs. This course is a 4 hour virtual workshop. Throughout [Part I: Brain Waves](https://github.com/pkoneill/VisualizingBrainWaves/blob/main/README.md#part-ii-analyzing-eeg-data)
 
 
 # Workshop Outline
