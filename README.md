@@ -11,20 +11,15 @@ Objectives: To introduce students to Python programming through learning about b
 |0:00-0:15| Welcome/Introductions |
 |0:15-1:00| Lecture on Brain Waves and History of the EEG | 
 |1:00-1:10| BREAK|
-|1:10-1:40| Colab Tutorial and Discussion|
+|1:10-1:40| Colab Tutorial: Alpha and Beta Waves|
 |1:40-1:45| BREAK|
 
-#Part II: Analyzing EEG data 
+## Part II: Analyzing EEG data 
 HR:MIN| Description| 
 |------|------------|
-|0:00-0:15| Welcome/Introductions |
-|0:15-1:00| Lecture on Brain Waves and History of the EEG | 
-|1:00-1:10| BREAK|
-|1:10-1:40| Colab Tutorial and Discussion|
-|1:40-1:45| BREAK|
-Lecture on EEG circuitry
-  -Components of an EEG
-  -Fourier transform
-Tutorial: Interactive slides and Colab 
+|1:45-2:30| Lecture on EEG circuitry and Fourier Transform |
+|2:30-2:40| BREAK| 
+|2:40-3:10| Colab Tutorial: Filters and Amplifiers|
+|3:10-3:15| BREAK |
+|3:15-4:00| Colab Tutorial: Plot Data and create visualizations|
 
-Part III: Visualizing Brain Waves
