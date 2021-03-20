@@ -19,7 +19,7 @@ HR:MIN| Description|
 |------|------------|
 |1:45-2:30| Lecture on EEG circuitry and Fourier Transform |
 |2:30-2:40| BREAK| 
-|2:40-3:10| Colab Tutorial: Filters and Fourier [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves.ipynb)|
+|2:40-3:10| Colab Tutorial: Filters and Fourier [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_Fourier.ipynb)|
 |3:10-3:15| BREAK |
 |3:15-4:00| Colab Tutorial: Plot Data and create visualizations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B8tcJqBli4ptfCpqGrUfaFVk9hPA4vWD)|
 
