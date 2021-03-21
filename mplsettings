@@ -1,4 +1,4 @@
-figure.figsize : 8, 4
+figure.figsize : 8, 1
 figure.autolayout : True
 font.size : 15
 xtick.labelsize : small
