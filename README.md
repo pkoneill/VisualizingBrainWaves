@@ -19,7 +19,7 @@ In [Part II: Analyzing EEG Data](https://github.com/pkoneill/VisualizingBrainWav
 ## Part II: Analyzing EEG data 
 HR:MIN| Description| 
 |------|------------|
-|1:45-2:30| Lecture: EEG circuitry and Fourier Transform |
+|1:45-2:30| Lecture: EEG circuitry |
 |2:30-2:40| BREAK| 
 |2:40-3:10| Colab Tutorial: Fourier Transform [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_Fourier.ipynb)|
 |3:10-3:15| BREAK |
