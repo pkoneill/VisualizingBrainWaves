@@ -11,17 +11,16 @@ In [Part II: Analyzing EEG Data](https://github.com/pkoneill/VisualizingBrainWav
 |HR:MIN| Description| 
 |------|------------|
 |0:00-0:15| Welcome/Introductions |
-|0:15-1:00| [Lecture: Brain Waves and History of the EEG](https://jozsefmeszaros.online/eeg/) | 
-|1:00-1:10| BREAK|
-|1:10-1:40| [Virtual Neurophysiology Lab](https://jozsefmeszaros.online/vnl/) |
-|1:40-1:45| BREAK|
+|0:15-0:45| [Lecture: Brain Waves and History of the EEG](https://jozsefmeszaros.online/eeg/) | 
+|0:45-1:30| [Virtual Neurophysiology Lab](https://jozsefmeszaros.online/vnl/) |
+|1:30-1:45| BREAK|
 
 ## Part II: Analyzing EEG data 
 HR:MIN| Description| 
 |------|------------|
-|1:45-2:30| Lecture: EEG circuitry |
+|1:45-2:00| EEG Demonstration with Live Brain |
+|2:00-2:30| EEG Circuitry Lecture |
 |2:30-2:40| BREAK| 
 |2:40-3:10| Colab Tutorial: Fourier Transform [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_Fourier.ipynb)|
 |3:10-3:15| BREAK |
 |3:15-4:00| Colab Tutorial: Plot Data and create visualizations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_EEG_Data.ipynb)|
-
