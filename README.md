@@ -11,9 +11,9 @@ In [Part II: Analyzing EEG Data](https://github.com/pkoneill/VisualizingBrainWav
 |HR:MIN| Description| 
 |------|------------|
 |0:00-0:15| Welcome/Introductions |
-|0:15-1:00| Lecture: Brain Waves and History of the EEG | 
+|0:15-1:00| [Lecture: Brain Waves and History of the EEG](https://jozsefmeszaros.online/eeg/) | 
 |1:00-1:10| BREAK|
-|1:10-1:40| Virtual Neurophysiology Lab |
+|1:10-1:40| [Virtual Neurophysiology Lab](https://jozsefmeszaros.online/vnl/) |
 |1:40-1:45| BREAK|
 
 ## Part II: Analyzing EEG data 
