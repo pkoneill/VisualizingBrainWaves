@@ -12,7 +12,7 @@ In [Part II: Analyzing EEG Data](https://github.com/pkoneill/VisualizingBrainWav
 |------|------------|
 |0:00-0:15| Welcome/Introductions |
 |0:15-0:45| [Lecture: Brain Waves and History of the EEG](https://jozsefmeszaros.online/eeg/) | 
-|0:45-1:30| [Virtual Neurophysiology Lab](https://jozsefmeszaros.online/vnl/) |
+|0:45-1:30| [Virtual Neurophysiology Lab](https://jozsefmeszaros.online/vnl/) , Your Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/VirtualLabNotebook.ipynb)|
 |1:30-1:45| BREAK|
 
 ## Part II: Analyzing EEG data 
