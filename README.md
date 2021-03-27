@@ -19,7 +19,7 @@ In [Part II: Analyzing EEG Data](https://github.com/pkoneill/VisualizingBrainWav
 HR:MIN| Description| 
 |------|------------|
 |1:45-2:00| EEG Demonstration with Live Brain |
-|2:00-2:30| EEG Circuitry Lecture |
+|2:00-2:30| [EEG Filter Lab] (http://jozsefmeszaros.online/vnl/filterlab.html) |
 |2:30-2:40| BREAK| 
 |2:40-3:10| Colab Tutorial: Fourier Transform [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_Fourier.ipynb)|
 |3:10-3:15| BREAK |
