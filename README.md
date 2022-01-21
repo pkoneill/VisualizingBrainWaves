@@ -22,4 +22,4 @@ HR:MIN| Description|
 |2:30-2:40| BREAK| 
 |2:40-3:10| Colab Tutorial: Fourier Transform [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_Fourier.ipynb)|
 |3:10-3:15| BREAK |
-|3:15-4:00| Colab Tutorial: Plot Data and create visualizations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_EEG_Data.ipynb)|
+|3:15-4:00| Colab Tutorial: Visualize EEG Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_EEG_Data.ipynb)|
