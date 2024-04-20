@@ -15,7 +15,7 @@ In [Part II: Analyzing EEG Data](https://github.com/pkoneill/VisualizingBrainWav
 |1:20-1:30| Discussion: [Populations of neurons](http://jozsefmeszaros.online/eeg_previous/)|
 |1:30-1:45| BREAK|
 
-## Part II: Analyzing EEG data 
+## Part II: EEG data 
 HR:MIN| Description| 
 |------|------------|
 |1:45-2:00| EEG Hands-On <!--Demonstration with Live Brain--> |
