@@ -6,7 +6,7 @@ In [Part II: Analyzing EEG Data](https://github.com/pkoneill/VisualizingBrainWav
 
 
 # Workshop Outline
-## PART I: Brain Waves
+## Part I: Brain Waves
 |HR:MIN| Description| 
 |------|------------|
 |0:00-0:15| Welcome/Introductions |
@@ -25,3 +25,11 @@ HR:MIN| Description|
 <!-- |3:10-3:15| BREAK |
 /|3:15-4:00| Colab Tutorial: Visualize EEG Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_EEG_Data.ipynb)|
 -->
+
+## Part III: Recording heart and brain waves
+|HR:MIN| Description| 
+|------|------------|
+|0:00-0:15| Welcome/Introductions |
+|0:15-1:00| [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html),[EEG Recorder](https://jozsefmeszaros.online/eeg/eegrecorder.py),  
+|2:00-3:00| [ ](https://jozsefmeszaros.online/vnl/) , Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Virtual_Lab_Notebook.ipynb)|
+
