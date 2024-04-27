@@ -30,6 +30,7 @@ HR:MIN| Description|
 |HR:MIN| Description| 
 |------|------------|
 |0:00-0:15| Welcome/Introductions |
-|0:15-1:00| [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html),[EEG Recorder](https://jozsefmeszaros.online/eeg/eegrecorder.py),  
-|2:00-3:00| [ ](https://jozsefmeszaros.online/vnl/) , Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Virtual_Lab_Notebook.ipynb)|
-
+|0:15-1:00| [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html),[EEG Recorder](https://jozsefmeszaros.online/eeg/eegrecorder.py),[Requirements](https://jozsefmeszaros.online/eeg/to_install.txt) |
+|1:00-1:15| Break |
+|1:15-1:30| EEG Demo |
+|1:30-3:00| Record your heart and brain waves! |
