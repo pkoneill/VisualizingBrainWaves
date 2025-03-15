@@ -22,7 +22,7 @@ In Part III: Recording heart and brain waves, we will become familiar with the b
 ## Part II: EEG data analysis
 HR:MIN| Description| 
 |------|------------|
-|1:40-2:00| EEG Hands-On <!--Demonstration with Live Brain--> |
+|1:40-2:00| [EEG Circuit Diagram and Hands-On](https://jozsefmeszaros.online/eeg/index.html#circuits) <!--Demonstration with Live Brain--> |
 |2:00-2:20| [EEG Filter Lab](http://jozsefmeszaros.online/vnl/filterlab.html) , Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Virtual_Lab_Notebook.ipynb)||
 |2:20-2:40| Colab Tutorial: Fourier Transform [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_Fourier.ipynb)|
 |2:40-3:00| Colab Tutorial: Visualize EEG Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pkoneill/VisualizingBrainWaves/blob/main/Visualizing_Brain_Waves_EEG_Data.ipynb)|
