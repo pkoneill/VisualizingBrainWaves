@@ -33,7 +33,7 @@ HR:MIN| Description|
 |HR:MIN| Description| 
 |------|------------|
 |0:00-0:15| Welcome/Introductions |
-|0:15-1:00| [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html),[EEG Recorder](https://jozsefmeszaros.online/eeg/eegrecorder.py),[Requirements](https://jozsefmeszaros.online/eeg/to_install.txt)|
+|0:15-1:00| [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html),[EEG Recorder](https://jozsefmeszaros.online/eeg/eegrecorder.py),[Environment](https://jozsefmeszaros.online/eeg/eeg_environment.yml)|
 |1:00-1:15| Break |
 |1:15-1:30| EEG Demo |
 |1:30-3:00| Record your heart and brain waves! |
