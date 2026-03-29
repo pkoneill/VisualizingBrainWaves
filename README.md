@@ -29,7 +29,7 @@ HR:MIN| Description|
 -->
 
 ## Part III: Recording heart and brain waves
-[ADDITIONAL INSTRUCTIONS FOR SOFTWARE] (Setting up the EEG software.pdf)
+[ADDITIONAL INSTRUCTIONS FOR SOFTWARE] (https://github.com/pkoneill/VisualizingBrainWaves/blob/main/Setting%20up%20the%20EEG%20software.pdf)
 |HR:MIN| Description| 
 |------|------------|
 |0:00-0:15| Welcome/Introductions |
